@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "350E0870-2B96-465F-B1D9-868DB0AC4C5D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85BD938B-66D5-44DF-BF40-C62869945863"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoutubeRecorder/Services/Auth/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "signInWithGoogle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D19FCAF8-77C0-4FA2-966F-6AF54FE33066"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoutubeRecorder/Services/Auth/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "signInWithGoogle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAE7ACB1-70D9-4BC4-8B5E-F9FAB33F3683"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoutubeRecorder/Services/Auth/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "signInWithGoogle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAE7ACB1-70D9-4BC4-8B5E-F9FAB33F3683 - 76aca760a1777852"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120">
+               </Location>
+               <Location
+                  uuid = "EAE7ACB1-70D9-4BC4-8B5E-F9FAB33F3683 - 3c6e7a081915b85c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120">
+               </Location>
+               <Location
+                  uuid = "EAE7ACB1-70D9-4BC4-8B5E-F9FAB33F3683 - 24f05e4f828b9859"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8B7F13A-BF5E-408A-868E-F1AF2DBA4E74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoutubeRecorder/Services/Auth/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "signInWithGoogle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8B7F13A-BF5E-408A-868E-F1AF2DBA4E74 - 76aca760a1777e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141">
+               </Location>
+               <Location
+                  uuid = "E8B7F13A-BF5E-408A-868E-F1AF2DBA4E74 - 3c6e7a081915be89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141">
+               </Location>
+               <Location
+                  uuid = "E8B7F13A-BF5E-408A-868E-F1AF2DBA4E74 - 24f05e4f828b9e8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141">
+               </Location>
+               <Location
+                  uuid = "E8B7F13A-BF5E-408A-868E-F1AF2DBA4E74 - 8790fcdbd65b3e8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E16FDB87-6912-4472-A2FB-A77398EAC711"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoutubeRecorder/Services/Auth/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "signInWithGoogle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E16FDB87-6912-4472-A2FB-A77398EAC711 - 76aca760a1777f6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144">
+               </Location>
+               <Location
+                  uuid = "E16FDB87-6912-4472-A2FB-A77398EAC711 - 3c6e7a081915bf64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144">
+               </Location>
+               <Location
+                  uuid = "E16FDB87-6912-4472-A2FB-A77398EAC711 - 24f05e4f828b9f61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144">
+               </Location>
+               <Location
+                  uuid = "E16FDB87-6912-4472-A2FB-A77398EAC711 - 8790fcdbd65b3f60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for YoutubeRecorder.AuthManager.signInWithGoogle() async throws -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Desktop/YoutubeRecorder/YoutubeRecorder/Services/Auth/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03BDCDBA-9CE0-49A9-9426-1F0C86A82BAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoutubeRecorder/Services/Auth/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "signInWithGoogle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "764243B7-A121-4814-B80E-5145E19FAACF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "738"
+            endingLineNumber = "738"
+            landmarkName = "signInAnonymously(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "764243B7-A121-4814-B80E-5145E19FAACF - aa313ae2f6b5a491"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 () async -&gt; () in closure #1 @Sendable () -&gt; () in FirebaseAuth.Auth.signInAnonymously(completion: Swift.Optional&lt;(Swift.Optional&lt;FirebaseAuth.AuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "739"
+                  endingLineNumber = "739">
+               </Location>
+               <Location
+                  uuid = "764243B7-A121-4814-B80E-5145E19FAACF - e40ad4b0aba14690"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 () async -&gt; () in closure #1 @Sendable () -&gt; () in FirebaseAuth.Auth.signInAnonymously(completion: Swift.Optional&lt;(Swift.Optional&lt;FirebaseAuth.AuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "739"
+                  endingLineNumber = "739">
+               </Location>
+               <Location
+                  uuid = "764243B7-A121-4814-B80E-5145E19FAACF - 1dc3ee469c9ef893"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 () async -&gt; () in closure #1 @Sendable () -&gt; () in FirebaseAuth.Auth.signInAnonymously(completion: Swift.Optional&lt;(Swift.Optional&lt;FirebaseAuth.AuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "739"
+                  endingLineNumber = "739">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75CD7169-0561-4B19-8B6F-1D3FD65E51A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "732"
+            endingLineNumber = "732"
+            landmarkName = "signInAnonymously(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD4AA098-083A-47CB-8DC8-5C23609B33D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "725"
+            endingLineNumber = "725"
+            landmarkName = "signInAnonymously(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DD4F069-760A-4AAA-A046-4978D7CA8A11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "781"
+            endingLineNumber = "781"
+            landmarkName = "signIn(withCustomToken:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA214E67-3C61-4483-A584-A72DF6FDFF1E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "862"
+            endingLineNumber = "862"
+            landmarkName = "createUser(withEmail:password:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FF2859C-3F9B-4346-BBFD-677D157A680C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "906"
+            endingLineNumber = "906"
+            landmarkName = "internalCreateUserWithEmail(request:inResponse:decoratedCallback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14E9A1AC-1FAE-4DE8-B031-32248EE62449"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "920"
+            endingLineNumber = "920"
+            landmarkName = "internalCreateUserWithEmail(request:inResponse:decoratedCallback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1291912D-DCD3-45F5-AF20-4328F9663254"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "690"
+            endingLineNumber = "690"
+            landmarkName = "signIn(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1291912D-DCD3-45F5-AF20-4328F9663254 - 56a3a1fa9e0203e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.CheckedContinuation&lt;FirebaseAuth.AuthDataResult, Swift.Error&gt;) -&gt; () in FirebaseAuth.Auth.signIn(with: FirebaseAuth.AuthCredential) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "690"
+                  endingLineNumber = "690">
+               </Location>
+               <Location
+                  uuid = "1291912D-DCD3-45F5-AF20-4328F9663254 - 108aabe7b5593695"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseAuth.AuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;FirebaseAuth.AuthDataResult, Swift.Error&gt;) -&gt; () in FirebaseAuth.Auth.signIn(with: FirebaseAuth.AuthCredential) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "691"
+                  endingLineNumber = "691">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3E46B64-6851-4A52-80DA-D1AE567032E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "693"
+            endingLineNumber = "693"
+            landmarkName = "signIn(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5523856F-D216-422E-9176-D1F4E098D4BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "695"
+            endingLineNumber = "695"
+            landmarkName = "signIn(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3A6B9D0-2753-4A4B-B96B-A453D43E1633"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "642"
+            endingLineNumber = "642"
+            landmarkName = "signIn(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "552F15B7-34C9-494A-8C61-3C9D86040CF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "645"
+            endingLineNumber = "645"
+            landmarkName = "signIn(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "552F15B7-34C9-494A-8C61-3C9D86040CF3 - bb8639b7fb8e988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () async -&gt; () in closure #1 @Sendable () -&gt; () in FirebaseAuth.Auth.signIn(with: FirebaseAuth.AuthCredential, completion: Swift.Optional&lt;(Swift.Optional&lt;FirebaseAuth.AuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "645"
+                  endingLineNumber = "645">
+               </Location>
+               <Location
+                  uuid = "552F15B7-34C9-494A-8C61-3C9D86040CF3 - abd4a5c7153318f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 () async -&gt; () in closure #1 @Sendable () -&gt; () in FirebaseAuth.Auth.signIn(with: FirebaseAuth.AuthCredential, completion: Swift.Optional&lt;(Swift.Optional&lt;FirebaseAuth.AuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "645"
+                  endingLineNumber = "645">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29C1A92C-08DB-4776-8AC0-F4D6F0687343"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2270"
+            endingLineNumber = "2270"
+            landmarkName = "signInFlowAuthDataResultCallback(byDecorating:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D18608CE-1154-496B-B716-0059960A091C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2272"
+            endingLineNumber = "2272"
+            landmarkName = "signInFlowAuthDataResultCallback(byDecorating:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95D89DB8-91E7-45AC-80B6-EF5050EE2783"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2275"
+            endingLineNumber = "2275"
+            landmarkName = "signInFlowAuthDataResultCallback(byDecorating:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46A401FB-819A-4590-9DA4-499CBCDE2B0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "649"
+            endingLineNumber = "649"
+            landmarkName = "signIn(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6E91AF3-77F4-4494-8B55-24E58E54204A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2075"
+            endingLineNumber = "2075"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6E91AF3-77F4-4494-8B55-24E58E54204A - 5009fdb7e2bb96d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2076"
+                  endingLineNumber = "2076">
+               </Location>
+               <Location
+                  uuid = "C6E91AF3-77F4-4494-8B55-24E58E54204A - 98a8ef7b27c9b3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2076"
+                  endingLineNumber = "2076">
+               </Location>
+               <Location
+                  uuid = "C6E91AF3-77F4-4494-8B55-24E58E54204A - b46523fc0c80d2d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2076"
+                  endingLineNumber = "2076">
+               </Location>
+               <Location
+                  uuid = "C6E91AF3-77F4-4494-8B55-24E58E54204A - 3a6ed19b0366a43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(12) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2076"
+                  endingLineNumber = "2076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "005FC161-DE59-464B-A6CD-5B26646E239D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2080"
+            endingLineNumber = "2080"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E929DE3F-3BCF-452C-99A8-5D81C57F6188"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2086"
+            endingLineNumber = "2086"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "745B4A63-8375-4BC3-B2BC-568C94E88C63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2092"
+            endingLineNumber = "2092"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "745B4A63-8375-4BC3-B2BC-568C94E88C63 - 5009fdb7e2bb8820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2092"
+                  endingLineNumber = "2092">
+               </Location>
+               <Location
+                  uuid = "745B4A63-8375-4BC3-B2BC-568C94E88C63 - 382f640da02e7dc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) await resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2092"
+                  endingLineNumber = "2092">
+               </Location>
+               <Location
+                  uuid = "745B4A63-8375-4BC3-B2BC-568C94E88C63 - ed4cf05020314426"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2092"
+                  endingLineNumber = "2092">
+               </Location>
+               <Location
+                  uuid = "745B4A63-8375-4BC3-B2BC-568C94E88C63 - 55904e690ec7aeb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(14) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2092"
+                  endingLineNumber = "2092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9069AA8C-2FA0-42C2-B0BB-8BDDFC4E8D05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2098"
+            endingLineNumber = "2098"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7E9BC3B-2D98-4683-9A80-13A12E605417"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2122"
+            endingLineNumber = "2122"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46D444DB-F76A-4716-BFC9-452227517733"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2119"
+            endingLineNumber = "2119"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64C338F3-3845-4D00-BA86-B9177D28177A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2132"
+            endingLineNumber = "2132"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64C338F3-3845-4D00-BA86-B9177D28177A - c1b8269e4a06ff20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2132"
+                  endingLineNumber = "2132">
+               </Location>
+               <Location
+                  uuid = "64C338F3-3845-4D00-BA86-B9177D28177A - a4f794e58e1712c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) await resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2132"
+                  endingLineNumber = "2132">
+               </Location>
+               <Location
+                  uuid = "64C338F3-3845-4D00-BA86-B9177D28177A - a7812f7a6f54e78f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(16) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2132"
+                  endingLineNumber = "2132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83C98F0D-FC49-49D1-B00E-F90549AB7C66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2142"
+            endingLineNumber = "2142"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "101F1300-14BC-451A-9023-24674E1469CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "692"
+            endingLineNumber = "692"
+            landmarkName = "signIn(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C99F7C5C-2D9C-4EC6-A187-6412EC9C6538"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2072"
+            endingLineNumber = "2072"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D330CB35-EABC-4F6A-B19B-0D2A9F05831C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2129"
+            endingLineNumber = "2129"
+            landmarkName = "internalSignInAndRetrieveData(withCredential:isReauthentication:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D330CB35-EABC-4F6A-B19B-0D2A9F05831C - c1b8269e4a06ffc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2129"
+                  endingLineNumber = "2129">
+               </Location>
+               <Location
+                  uuid = "D330CB35-EABC-4F6A-B19B-0D2A9F05831C - c1b8269e4a06ffc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2129"
+                  endingLineNumber = "2129">
+               </Location>
+               <Location
+                  uuid = "D330CB35-EABC-4F6A-B19B-0D2A9F05831C - 1abdbc91e0fe966d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(11) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2129"
+                  endingLineNumber = "2129">
+               </Location>
+               <Location
+                  uuid = "D330CB35-EABC-4F6A-B19B-0D2A9F05831C - a7812f7a6f54e768"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(16) suspend resume partial function for FirebaseAuth.Auth.internalSignInAndRetrieveData(withCredential: FirebaseAuth.AuthCredential, isReauthentication: Swift.Bool) async throws -&gt; FirebaseAuth.AuthDataResult"
+                  moduleName = "YoutubeRecorder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annwilson/Library/Developer/Xcode/DerivedData/YoutubeRecorder-drcprwojugrsfyddallojlbefezf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Sources/Swift/Auth/Auth.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2129"
+                  endingLineNumber = "2129">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
